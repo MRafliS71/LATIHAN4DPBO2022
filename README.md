@@ -1,5 +1,5 @@
 # LATIHAN4DPBO2022
-/Saya Muhammad Rafli Syaputra mengerjakan Tugas Latihan 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin../
+/Saya Muhammad Rafli Syaputra mengerjakan Tugas Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin../
 
 ## Gambaran Peta Desain
 
